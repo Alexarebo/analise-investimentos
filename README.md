@@ -60,7 +60,7 @@ Após esta tarefa foi associado os perfis com os tipos de fundos imobiliários (
 
 ## **PLANILHA FINAL**
 
-[Analise_invest - proj1.xlsx](https://github.com/user-attachments/files/24677867/Analise_invest.-.proj1.xlsx)
+[Analise_invest - proj1.xlsx](https://github.com/user-attachments/files/24678900/Analise_invest.-.proj1.xlsx)
 
 
 
