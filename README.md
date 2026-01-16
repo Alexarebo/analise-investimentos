@@ -58,7 +58,9 @@ Após esta tarefa foi associado os perfis com os tipos de fundos imobiliários (
 
 <img width="308" height="242" alt="image" src="https://github.com/user-attachments/assets/b5754dff-62f4-40af-bc46-2530e30adf02" />
 
+## **PLANILHA FINAL**
 
+[Analise_invest - proj1.xlsx](https://github.com/user-attachments/files/24677867/Analise_invest.-.proj1.xlsx)
 
 
 
